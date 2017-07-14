@@ -1,0 +1,103 @@
+....body	
+	background-image: url(../pic/technology-wallpapers.jpg);
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+	width: 100vw;	
+	background-color: rgba(255,255,255,0.5);	
+}
+
+#imge{
+	background-image: url(../pic/technology-wallpapers.jpg);
+}
+img {
+	width: 100vw;
+
+}
+
+header{
+	position: fixed;
+	top: 0px;
+	width: 100vw;
+	background-color: #fff;
+	z-index: 1;
+}
+.main_row{
+	
+}
+
+.pic {
+	text-align: left;
+}
+
+
+
+.cont p>span{
+	color: red;
+}
+.tel{
+	padding-top: 20px;
+	font-size: 20px;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.order{
+	font-size: 15px;
+	text-align: center;
+	text-transform: uppercase;
+	color: blue;
+}
+
+
+.menu {
+     display: table; 
+     position: relative;
+     width: 100%; 
+     height: 100px;     
+     
+}
+.menu a {
+    display: table-cell;
+    text-align: center; 
+    vertical-align: middle;
+	text-transform: uppercase;
+	font-size: 15px;
+	color: #171717;
+	padding: 0;
+	margin: 0;
+}
+
+
+.backback {
+	position: absolute;
+
+}
+
+.top_con_in{
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.first{
+	position: absolute;
+	width: 100%;
+	height: 50%;
+	display: table;
+	top: 0;
+	left: 0;
+
+}
+.top_con_in h1{
+	color: red;
+}
+
+.help{
+	height: 400px;
+	background-color: white;
+
+}
+.line{
+	width: 400px;
+}
